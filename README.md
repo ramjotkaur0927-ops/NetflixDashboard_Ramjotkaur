@@ -21,3 +21,6 @@ This Tableau dashboard provides an in-depth analysis of Netflix content across m
 
 ## Objective:
 To analyze Netflix content trends and provide insights into user preferences and global distribution.
+
+## Live Dashboard
+[View Dashboard On Tableau Public](https://public.tableau.com/views/netflixdashboard_17772127910080/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
